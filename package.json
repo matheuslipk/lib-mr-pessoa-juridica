@@ -15,7 +15,7 @@
     "neo4j"
   ],
   "author": "Matheus Araujo <matheus.dev3000@gmail.com>",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "chalk": "^4.1.2",
     "cors": "^2.8.5",
